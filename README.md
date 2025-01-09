@@ -23,9 +23,6 @@ A modern expenses tracking app built with **Next.js**, **React**, **Neon**, **Pr
 - **Neon** database set up.
 - **Clerk** project created for authentication.
 
-### Steps
+  
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/mwheeler2244/expenses-tracker.git
-   cd expenses-tracker
+
