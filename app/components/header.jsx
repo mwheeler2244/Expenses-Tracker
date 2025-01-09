@@ -6,7 +6,7 @@ export default async function Header() {
 
   return (
     <nav className="navbar">
-      <Link href="/">Tracker</Link>
+      <Link href="/">Expenses Tracker</Link>
       <>
         <SignedOut>
           <SignInButton className="button" />
