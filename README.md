@@ -1,6 +1,6 @@
 # Expenses Tracker
 
-A modern expenses tracking app built with **Next.js**, **React**, **Neon**, **Prisma**, and **Clerk** for authentication.
+A modern expenses tracking app built with **Next.js**, **React**, **Neon**, **Prisma**, and **Clerk** 
 
 ## Live Demo
 Check out the live application here: [Expenses Tracker](https://expenses-tracker-rosy-chi.vercel.app)
