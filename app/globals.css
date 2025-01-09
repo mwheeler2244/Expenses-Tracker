@@ -211,6 +211,8 @@
 }
 
 .guest-container {
+  margin-inline: auto;
+  margin-top: 2rem;
   background: white;
   padding: 40px;
   border-radius: 8px;
