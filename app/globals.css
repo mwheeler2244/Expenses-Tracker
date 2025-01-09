@@ -209,3 +209,41 @@
   color: #ffffff;
   transition: background-color 0.3s ease, color 0.3s ease;
 }
+
+.guest-container {
+  background: white;
+  padding: 40px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Soft shadow for a modern feel */
+  text-align: center;
+  width: 100%;
+  max-width: 400px; /* Limit the width for better UI on mobile */
+}
+
+.guest-title {
+  font-size: 2rem;
+  font-weight: 500;
+  margin-bottom: 20px;
+  color: #1a202c; /* Dark text color */
+}
+
+.guest-signin-btn {
+  background-color: #4caf50; /* A vibrant green for the button */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+  width: 100%; /* Button spans full width of container */
+}
+
+.guest-signin-btn:hover {
+  background-color: #45a049; /* Darker green on hover */
+}
+
+.guest-signin-btn:focus {
+  outline: none;
+  box-shadow: 0 0 5px rgba(72, 186, 84, 0.6); /* Glow effect when focused */
+}
